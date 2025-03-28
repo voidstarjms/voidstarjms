@@ -1,0 +1,13 @@
+- @voidstarjms
+- They/them
+- Undergraduate researcher, Glomerulus computational neuroscience lab @ Western Washington University
+- Languages
+  - C
+  - Java
+  - Python
+  - Julia
+  - GameMaker Language
+- Interests
+  - Mathematical modeling
+  - Video game design
+  - Dungeons & Dragons
