@@ -1,5 +1,5 @@
 ## @voidstarjms
-- they/them
+- she/her
 - Undergraduate researcher, Glomerulus computational neuroscience lab @ Western Washington University
 - Languages
   - C
